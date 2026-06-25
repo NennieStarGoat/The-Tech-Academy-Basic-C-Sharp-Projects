@@ -1,0 +1,8 @@
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\MathApp.csproj.AssemblyReference.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\MathApp.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\MathApp\MathApp\obj\Debug\MathApp.exe.config
