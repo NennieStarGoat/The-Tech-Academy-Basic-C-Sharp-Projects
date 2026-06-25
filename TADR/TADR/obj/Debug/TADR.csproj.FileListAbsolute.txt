@@ -1,0 +1,7 @@
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\bin\Debug\TADR.exe.config
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\bin\Debug\TADR.exe
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\bin\Debug\TADR.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\obj\Debug\TADR.csproj.AssemblyReference.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\obj\Debug\TADR.csproj.CoreCompileInputs.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\obj\Debug\TADR.exe
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Desktop\Basic_C#_Programs\TADR\TADR\obj\Debug\TADR.pdb
