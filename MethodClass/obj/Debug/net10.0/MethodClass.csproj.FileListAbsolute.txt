@@ -1,0 +1,16 @@
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.AssemblyInfoInputs.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.AssemblyInfo.cs
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.sourcelink.json
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\bin\Debug\net10.0\MethodClass.exe
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\bin\Debug\net10.0\MethodClass.deps.json
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\bin\Debug\net10.0\MethodClass.runtimeconfig.json
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\bin\Debug\net10.0\MethodClass.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\bin\Debug\net10.0\MethodClass.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\refint\MethodClass.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodClass.genruntimeconfig.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\ref\MethodClass.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\MethodClass\obj\Debug\net10.0\MethodCl.8CAF70C7.Up2Date
