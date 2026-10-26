@@ -1,0 +1,16 @@
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.AssemblyInfo.cs
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.sourcelink.json
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\bin\Debug\net10.0\LambdaAssignment.exe
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\bin\Debug\net10.0\LambdaAssignment.deps.json
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\bin\Debug\net10.0\LambdaAssignment.runtimeconfig.json
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\bin\Debug\net10.0\LambdaAssignment.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\bin\Debug\net10.0\LambdaAssignment.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\refint\LambdaAssignment.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.pdb
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAssignment.genruntimeconfig.cache
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\ref\LambdaAssignment.dll
+C:\Users\jennie.smith\OneDrive - Thermo Fisher Scientific\Documents\GitHub\Tech-Academy-Projects\C# Projects\LambdaAssignment\obj\Debug\net10.0\LambdaAs.C5D82E3D.Up2Date
